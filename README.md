@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:18181b,100:3f3f46&height=220&section=header&text=Welcome%20to%20Yaiphaba%27s%20GitHub&fontSize=38&fontColor=ffffff&fontAlignY=42&desc=%3C%2F%3E%20%20AI%2FML%20Engineer&descAlignY=64&descSize=18" width="100%" alt="Welcome to Yaiphaba's GitHub" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:18181b,100:3f3f46&height=220&section=header&text=Welcome%20to%20Yaiphaba%27s%20GitHub&fontSize=38&fontColor=ffffff&fontAlignY=42&desc=AI%2FML%20Engineer&descAlignY=64&descSize=18" width="100%" alt="Welcome to Yaiphaba's GitHub" />
 
 <a href="https://github.com/Yaiphaba189"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
