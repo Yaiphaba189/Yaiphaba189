@@ -23,15 +23,6 @@ I engineer intelligent software systems, combining applied machine learning, lar
 | **Backend** | FastAPI, Node.js, Django, REST APIs |
 | **Data & Infra** | PostgreSQL, MySQL, pgvector, Docker, Linux, CI/CD |
 
-## Projects
-
-| Project | Stack |
-|---|---|
-| [**AI4SEVA**](https://github.com/Yaiphaba189/AI4SEVA) | `HTML` |
-| [**INNOTECH-FEST-2.0**](https://github.com/Yaiphaba189/INNOTECH-FEST-2.0) | `TypeScript` |
-| [**TrainLens**](https://github.com/Yaiphaba189/TrainLens) | `C++` |
-| [**MCA_mini_project**](https://github.com/Yaiphaba189/MCA_mini_project) | `Python` |
-
 ## Engineering philosophy
 
 Reproducible experimentation, sound system architecture, measurable performance and maintainable software. My interests span efficient AI inference, intelligent document processing and the engineering of reliable AI-powered applications.
