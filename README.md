@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,100:3f3f46&height=190&section=header&text=Yaiphaba&fontSize=60&fontColor=fafafa&fontAlignY=38&desc=Full-stack%20developer%20%C2%B7%20Offline-first%20systems%20%C2%B7%20AI%20tooling&descAlignY=60&descSize=16" width="100%" alt="Yaiphaba header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,100:3f3f46&height=190&section=header&text=Yaiphaba&fontSize=60&fontColor=fafafa&fontAlignY=38&desc=Full-stack%20Developer%20%C2%B7%20Reliable%20Systems%20%C2%B7%20Applied%20AI&descAlignY=60&descSize=16" width="100%" alt="Yaiphaba header" />
 
-<a href="https://github.com/Yaiphaba189"><img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=18&duration=3000&pause=1000&color=71717A&center=true&vCenter=true&width=620&lines=Building+retail+software+that+never+goes+down;Next.js+%E2%86%92+FastAPI+%E2%86%92+PostgreSQL;Hackathon+builder+%C2%B7+MCA+student" alt="Typing intro" /></a>
+<a href="https://github.com/Yaiphaba189"><img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=18&duration=3000&pause=1000&color=71717A&center=true&vCenter=true&width=620&lines=Reliable+software+with+clean+architecture;Applied+AI+and+workflow+automation;Next.js+%E2%86%92+FastAPI+%E2%86%92+PostgreSQL" alt="Typing intro" /></a>
 
 <br/>
 
@@ -15,12 +15,13 @@
 
 ## ◼ About
 
-I build practical software with a bias for **reliability and clean architecture**.
-My main project is an **offline-first retail POS**: it keeps trading when the internet is down, and every stock change is recorded in an auditable ledger.
+Full-stack developer with a focus on **reliable systems, clean architecture and applied AI**.
+I design software that keeps working under real-world constraints, and I use AI to remove manual work from business workflows.
 
-- 🔭 Working on: **offline-first POS** (shifts, purchasing, reports, LAN sync)
-- 🌱 Learning: distributed sync, observability, applied AI
-- 🏆 Hackathons: INNOTECH-FEST 2.0, AI4SEVA (with [@GripsonTH](https://github.com/GripsonTH))
+- 🔭 **Current work:** an offline-first retail POS (shifts, purchasing, reporting, LAN sync)
+- 🤖 **AI focus:** document OCR, intelligent product matching and workflow automation
+- 🌱 **Learning:** distributed sync, observability, production AI systems
+- 🏆 **Hackathons:** INNOTECH-FEST 2.0 and AI4SEVA, with [@GripsonTH](https://github.com/GripsonTH)
 
 ---
 
@@ -37,6 +38,20 @@ My main project is an **offline-first retail POS**: it keeps trading when the in
 | **Audit** | `created_by` / `updated_by` on every table |
 | **Frontend** | TanStack Query, shadcn/ui, a strict zero-radius Swiss design system |
 | **Deploy** | Cloudflare Pages via GitHub Actions |
+
+---
+
+## ◼ AI & automation
+
+Designing an AI-assisted purchasing pipeline for the POS. The core system stays fully offline, and cloud AI is an optional enhancement.
+
+| Stage | Purpose |
+|---|---|
+| **Invoice upload** | Capture supplier invoices locally |
+| **OCR extraction** | Read line items, quantities and prices |
+| **Product matching** | Map extracted lines to the catalog |
+| **Human review** | Confirm or correct before stock is received |
+| **Manual fallback** | Everything works without AI or internet |
 
 ---
 
@@ -73,10 +88,6 @@ My main project is an **offline-first retail POS**: it keeps trading when the in
 </div>
 
 ---
-
-## ◼ Open to
-
-Freelance work, collaborations, and hackathon teams. If you run a shop and need a POS that survives a power or internet cut, open an issue or message me here on GitHub.
 
 <div align="center">
 
