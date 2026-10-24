@@ -14,13 +14,14 @@ I engineer intelligent software systems, combining applied machine learning, lar
 
 ## Stack
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,postgres,docker,linux,git,cpp&theme=dark" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,react,nextjs,tailwind,postgres,docker,linux,git,cpp&theme=dark" alt="Tech stack" />
 
 | | |
 |---|---|
 | **Languages** | Python, C++, JavaScript, SQL |
 | **AI / ML** | PyTorch, TensorFlow, Transformers, NLP, LLMs |
 | **Backend** | FastAPI, Node.js, Django, REST APIs |
+| **Frontend** | React, Next.js, Tailwind CSS |
 | **Data & Infra** | PostgreSQL, MySQL, pgvector, Docker, Linux, CI/CD |
 
 ## Engineering philosophy
