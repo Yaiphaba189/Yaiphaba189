@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:18181b,100:3f3f46&height=220&section=header&text=Welcome%20to%20Yaiphaba's%20GitHub&fontSize=38&fontColor=ffffff&fontAlignY=42&desc=%3C%2F%3E%20%20AI%2FML%20Engineer&descAlignY=64&descSize=18" width="100%" alt="Welcome to Yaiphaba's GitHub" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:18181b,100:3f3f46&height=220&section=header&text=Welcome%20to%20Yaiphaba%27s%20GitHub&fontSize=38&fontColor=ffffff&fontAlignY=42&desc=%3C%2F%3E%20%20AI%2FML%20Engineer&descAlignY=64&descSize=18" width="100%" alt="Welcome to Yaiphaba's GitHub" />
 
 <a href="https://github.com/Yaiphaba189"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
@@ -61,7 +61,7 @@ I engineer intelligent software systems, combining applied machine learning, lar
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yaiphaba189&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=false&border_color=ffffff&radius=0&custom_title=Yaiphaba%27s%20Contribution%20Graph" alt="Contribution graph" />
+<img src="https://ghchart.rshah.org/71717a/Yaiphaba189" alt="Contribution calendar" width="95%" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3f3f46,50:18181b,100:000000&height=90&section=footer" width="100%" alt="" />
