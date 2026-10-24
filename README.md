@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,100:3f3f46&height=190&section=header&text=Khumbongmayum%20Yaiphaba%20Singh&fontSize=36&fontColor=fafafa&fontAlignY=40&desc=AI%2FML%20Engineer%20%C2%B7%20LLM%20Systems&descAlignY=62&descSize=17" width="100%" alt="Khumbongmayum Yaiphaba Singh" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,100:3f3f46&height=190&section=header&text=Khumbongmayum%20Yaiphaba%20Singh&fontSize=36&fontColor=fafafa&fontAlignY=40&desc=AI%2FML%20Engineer&descAlignY=62&descSize=17" width="100%" alt="Khumbongmayum Yaiphaba Singh" />
 
 </div>
 
